@@ -37,7 +37,7 @@
 # 11.ใช้คำสั่ง git clone https://github.com/panida2541/python_dataviz.git ใช้คำสั่ง dir ดูโฟลเดอร์ว่ามีชื่อโฟลเดอร์อะไรบ้าง
 
 ![alt text](13.png)
-# 12. Anconda Install git ใช้คำสั่ง conda install -c anaconda git
+# 12. Install jupyter ใช้คำสั่ง conda install jupyter
 
 ![alt text](11.png)
 # 13.ทำการใช้คำสั่ง git status
